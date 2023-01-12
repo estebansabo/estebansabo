@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python - Django - Flask**
 
-- 👨‍💻 All of my projects are available at [estebansabo.link](estebansabo.link)
+- 👨‍💻 All of my projects are available at [estebansabo.link]
 
 - 💬 Ask me about **React, JavaScript**
 
