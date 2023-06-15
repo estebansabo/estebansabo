@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Website for a app company**
 
-- 🌱 I’m currently learning **Python - Django - Flask**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React, JavaScript**
 
