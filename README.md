@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on Website for a app company<br><br>I’m currently learning: Rust<br><br>Ask me about: React, React Native, JavaScript<br><br>How to reach me: estebanzsabo@gmail.com<br><br>Fun fact: Bitcoin mining enthusiast<br>
 
 ## 🌐 Socials:
