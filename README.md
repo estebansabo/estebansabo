@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on Website for a app company<br><br>I’m currently learning: Rust<br><br>Ask me about: React, React Native, JavaScript<br><br>How to reach me: estebanzsabo@gmail.com<br><br>Fun fact: Bitcoin mining enthusiast<br>
+I am currently working as a freelancer with full-stack projects.<br><br>I’m currently learning: Rust<br><br>Ask me about: React, React Native, JavaScript<br><br>How to reach me: estebanzsabo@gmail.com<br><br>Fun fact: Bitcoin mining enthusiast<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/estebansabo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/estebansabo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20761998) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/estebansabo) 
